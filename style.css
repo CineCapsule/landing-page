@@ -317,14 +317,16 @@ footer {
      .hero .heroD {
         display: none;
     }
-
+    .hero .socials ul {
+        display: block;
+    }
     .hero .heroD, .hero .heroG {
         width: 100%;
         height: 100%;
     }
 
     .hero .heroG div h1 {
-        font-size: 2rem;
+        font-size: 1.2rem;
         margin-top: 1rem;
 
     }
@@ -342,9 +344,6 @@ footer {
 
     .team .member {
         width: 100%;
-    }
-    .hero .socials {
-        display: none;
     }
     a .btn {
         margin-left: auto;
@@ -368,7 +367,7 @@ footer {
     }
 
     .hero .heroG div h1 {
-        font-size: 2rem;
+        font-size: 1.2rem;
         margin-top: 1rem;
 
     }
@@ -390,9 +389,7 @@ footer {
     .team .member {
         width: 100%;
     }
-    .hero .socials {
-        display: none;
-    }
+   
     a .btn {
         margin-left: auto;
         margin-right: auto;
